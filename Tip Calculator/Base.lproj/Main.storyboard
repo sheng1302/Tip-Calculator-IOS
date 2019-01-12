@@ -131,7 +131,9 @@
                     </view>
                     <navigationItem key="navigationItem" title="Tip Calculator" id="XXR-NC-IKX"/>
                     <connections>
+                        <outlet property="amountPeopleField" destination="JRI-mg-gK0" id="wbl-dg-2w6"/>
                         <outlet property="costField" destination="Pze-i8-OXM" id="cdm-tM-Mk0"/>
+                        <outlet property="individualCostLabel" destination="peo-yi-uhH" id="3tw-P4-p86"/>
                         <outlet property="tipControl" destination="6Yw-it-vKY" id="nCB-El-dU5"/>
                         <outlet property="totalCostLabel" destination="gGH-Qc-D1C" id="r0U-ib-IrH"/>
                     </connections>

@@ -3,3 +3,8 @@
 
 Purpose: pre-work submission for CodePath application.
 
+
+# Video Demo
+<img src='https://i.imgur.com/isqXO5H.gifv' title='Video Demo' width='' alt='Video Demo' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
