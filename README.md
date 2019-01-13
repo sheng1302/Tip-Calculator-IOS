@@ -10,7 +10,7 @@ Time spent: **3.5** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Split bill with your friend/family!
 
 ## Video Walkthrough 
 
